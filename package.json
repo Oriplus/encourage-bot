@@ -1,0 +1,15 @@
+{
+  "name": "encouragebot",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": { },
+  "keywords": ["bot","node","discord"],
+  "author": "OM",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1",
+    "node-fetch": "^2.6.7"
+  }
+}
